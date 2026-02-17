@@ -64,11 +64,11 @@ npm run deploy
 
 ### Limitations:
 
-Spoonacular has a daily “points” quota. If you see an error like:
+Spoonacular has a daily “points” quota. There may be an error that says: 
 
-API error 402: Your daily points limit has been reached
+"API error 402: Your daily points limit has been reached"
 
-It means the quota for the key/account is exhausted. Options:
+To Fix: 
 
 Try again after the daily reset
 
