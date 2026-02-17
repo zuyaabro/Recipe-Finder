@@ -1,0 +1,22 @@
+.home {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 16px;
+}
+
+.home__title {
+  margin: 0 0 12px;
+}
+
+.home__status {
+  margin-top: 16px;
+}
+
+.home__error {
+  margin-top: 16px;
+  color: crimson;
+}
+
+.home__empty {
+  margin-top: 16px;
+}

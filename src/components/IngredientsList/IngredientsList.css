@@ -1,0 +1,9 @@
+.ingredientsList {
+  margin: 0;
+  padding-left: 18px;
+  list-style: none;
+}
+
+.ingredientsList__item {
+  margin: 6px 0;
+}

@@ -1,0 +1,20 @@
+.recipeCard {
+  display: flex;
+  gap: 12px;
+  text-decoration: none;
+  color: inherit;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  padding: 12px;
+}
+
+.recipeCard__img {
+  width: 120px;
+  height: 90px;
+  object-fit: cover;
+  border-radius: 8px;
+}
+
+.recipeCard__name {
+  margin: 0;
+}

@@ -1,0 +1,19 @@
+.detailPage {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 16px;
+}
+
+.detailPage__sectionTitle {
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+.detailPage__status {
+  padding: 16px;
+}
+
+.detailPage__error {
+  padding: 16px;
+  color: crimson;
+}

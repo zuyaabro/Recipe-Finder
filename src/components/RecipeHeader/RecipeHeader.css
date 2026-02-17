@@ -1,0 +1,10 @@
+.recipeHeader__title {
+  margin: 12px 0 12px;
+}
+
+.recipeHeader__image {
+  width: 100%;
+  max-width: 700px;
+  border-radius: 12px;
+  display: block;
+}

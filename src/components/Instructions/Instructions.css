@@ -1,0 +1,9 @@
+.instructions {
+  margin: 0;
+  padding-left: 18px;
+}
+
+.instructions__item {
+  margin: 8px 0;
+  line-height: 1.4;
+}

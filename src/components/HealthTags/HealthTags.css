@@ -1,0 +1,11 @@
+.healthTags {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+
+.healthTags__tag {
+  border: 1px solid #ddd;
+  border-radius: 999px;
+  padding: 6px 10px;
+}
